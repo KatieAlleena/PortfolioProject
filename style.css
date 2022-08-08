@@ -1,0 +1,19 @@
+#nav {
+background-color: rgba(245, 245, 245, 0.466)
+
+}
+
+
+body {
+background-color: rgb(200, 196, 196);
+   
+}
+.header1 {
+    text-align: center;
+    border: 4px double black;
+    width: auto;
+    margin: 20px;
+    padding: 30px;
+    background-color: white;
+
+}
