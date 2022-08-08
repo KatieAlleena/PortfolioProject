@@ -25,6 +25,14 @@ background-color: rgb(200, 196, 196);
     text-align: center;
 }
 
+.about {
+
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin: 100px;
+}
+
 
 .roundphoto {
 
@@ -55,4 +63,18 @@ margin: 100px;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
     
+}
+
+.art-text {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin: 65px;
+}
+
+#curator-feed-default-feed-layout {
+
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
