@@ -8,12 +8,51 @@ body {
 background-color: rgb(200, 196, 196);
    
 }
-.header1 {
+.front-text {
+    display: flex;
+    justify-content: center;
     text-align: center;
-    border: 4px double black;
-    width: auto;
-    margin: 20px;
-    padding: 30px;
-    background-color: white;
+    margin: 100px;
+    font-size: 50px;
+    font-family: 'Cedarville Cursive', cursive;
 
+}
+
+.index-text {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.roundphoto {
+
+        display: flex;
+        justify-content: center;
+        margin: 50px;
+    
+}
+
+.logo {
+
+    width:300px;
+    height:300px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.mainphoto {
+
+display: flex;
+justify-content: center;
+margin: 100px;
+
+}
+
+.portfoliopic {
+
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    
 }
