@@ -15,3 +15,5 @@ Updates:
 2. Added pages for future writing samples & art/design/photoshop projects. 
 3. Updated nav section on all html pages
 4. Other minor updates such as correct paths for local links.
+5. Added art logo from instagram. Added it to the correct html page. Added CSS to circle crop that. 
+6. Added linkedin/facebook profile photo.Added this to the index html file. Added title div and included the google font I chose. Did not resize the large photo intentionally.
