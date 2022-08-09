@@ -18,3 +18,5 @@ Updates:
 5. Added art logo from instagram. Added it to the correct html page. Added CSS to circle crop that. 
 6. Added linkedin/facebook profile photo.Added this to the index html file. Added title div and included the google font I chose. Did not resize the large photo intentionally.
 7. On art projects html file, I made use of curatior.io widget to embed my instagram feed. I also linked my instagram on that page; one can click the logo or any of the widget images to be brought to the official page. I also updated the necessary css for margins, etc.
+8. Added a header to most pages in order to match the index html file.
+9. Added a programmer meme to one of my pages to fill space.

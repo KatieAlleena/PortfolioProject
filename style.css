@@ -72,6 +72,31 @@ margin: 100px;
     margin: 65px;
 }
 
+.about {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 100px
+}
+
+.humorimage {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+
+
+}
+.humor { 
+    
+    display: flex;
+    width: 400px;
+    justify-content: center;
+
+}
+
 #curator-feed-default-feed-layout {
 
     display: flex;
